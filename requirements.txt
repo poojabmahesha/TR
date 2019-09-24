@@ -1,0 +1,5 @@
+
+# TODO: put package requirements here
+common-lib>=0.7.1
+confetti
+slash
